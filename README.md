@@ -1,0 +1,2 @@
+# simutrans-savedate
+シムトランスのセーブデータ
