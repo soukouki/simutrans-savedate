@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<Simutrans version="0.120.7" pak="cach">
+<Simutrans version="0.120.8.22" pak="cach">
  <![CDATA[Automatically generated file. Do not edit. An invalid file may crash the game. Deleting is allowed though.]]>
  <save_game_info>
   <![CDATA[save/sakuragawa.sve]]>
   <![CDATA[pak.nippon-sakuragawa]]>
-  <i64>1564987332</i64>
-  <i32>1638098</i32>
+  <i64>1564984561</i64>
+  <i32>1601981</i32>
  </save_game_info>
  <save_game_info>
   <![CDATA[]]>
