@@ -1,2 +1,2 @@
-# simutrans-savedate
+# simutrans-savedata
 シムトランスのセーブデータ
